@@ -14,6 +14,6 @@ export default {
             console.log('click...')
         }
     },
-
+   
 }
 </script>
