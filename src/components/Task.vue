@@ -15,6 +15,11 @@
     props: {
         task: Object
     },
+    methods: {
+        onDelete(id){
+            this.$emit('delete-task', id)
+        },
+    },
  }
 </script>
 
