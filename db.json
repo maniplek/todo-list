@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Interview",
+      "day": "24 November 11:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "React Movie App",
+      "day": "30 November 11:00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Vue.js Movie App",
+      "day": "3 December 11:00",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
