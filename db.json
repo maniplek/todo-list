@@ -15,8 +15,14 @@
     {
       "text": "Vue.js Movie App",
       "day": "3 December 11:00",
-      "reminder": true,
+      "reminder": false,
       "id": 3
+    },
+    {
+      "text": "test 1",
+      "day": "test 1",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
